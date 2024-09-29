@@ -1,4 +1,3 @@
-
 <h1>Hello World! My name is William Poston.</h1>
 
 <h3>I am a computer/data scientist. I am currently a senior at Old Dominion University in Norfolk, Virginia.</h3>
