@@ -1,10 +1,10 @@
 # CPU Core Temperature Analyis
 
-Welcome to the Project! This project is designed to [solve a problem](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer).
+Welcome to the Project! This project is designed to [display cpu core temperatures over a period of time using interpolation](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer).
 
 ## About
 
-This project aims to provide an efficient solution for managing tasks and improving productivity.
+This project aims to provide an insight into the level of work your central processing unit uses.
 
 [Project Documentation](https://example.com)
 
