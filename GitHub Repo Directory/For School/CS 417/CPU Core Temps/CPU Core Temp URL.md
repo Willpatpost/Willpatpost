@@ -1,6 +1,6 @@
 # Project Title
 
-Welcome to the Project! This project is designed to [solve a problem](https://example.com).
+Welcome to the Project! This project is designed to [solve a problem](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer).
 
 ## About
 
