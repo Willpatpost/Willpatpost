@@ -1,4 +1,4 @@
-# Project Title
+# CPU Core Temperature Analyis
 
 Welcome to the Project! This project is designed to [solve a problem](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer).
 
