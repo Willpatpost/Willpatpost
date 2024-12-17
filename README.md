@@ -46,6 +46,6 @@ I'm always open to networking, collaboration, and new opportunities. Feel free t
 
 ---
 
-Thank you for visiting my GitHub profile! 😊
+## Thank you for visiting my GitHub profile! 😊
 
 ---
