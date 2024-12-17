@@ -25,7 +25,7 @@ My dream is to become a **Full Stack Software Engineer** or a **Prompt Engineer*
 ### 🛠️ Personal
 - [Movie Recommender](https://github.com/Willpatpost/Movie-Recommender)
 - [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle)
-- [Personal Webpage](https://willpatpost.me/)
+- [Personal Webpage](https://github.com/Willpatpost/PersonalWebpage)
 - [GitHub Stat Board](https://github.com/Willpatpost/GitHub-Stats)
 
 ---
