@@ -8,7 +8,7 @@
 
 ---
 
-## Table of Contents
+## My Repositories
 
 ### For School
 - [CS 417 - CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
