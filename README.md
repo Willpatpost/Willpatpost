@@ -11,15 +11,15 @@
 ## Table of Contents
 
 ### For School
-- [CS 417 - CPU Core Temps](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/For%20School/CS%20417/CPU%20Core%20Temps.md)
+- [CS 417 - CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
 - [CS 550 - Placeholder](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/For%20School/CS%20550/place)
-- [CS 580 - Sokomind](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/For%20School/CS%20580/Sokomind.md)
-- [CS 580 - Triangle Image Generator](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/For%20School/CS%20580/Triangle%20Image%20Generator.md)
+- [CS 580 - Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
+- [CS 580 - Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator)
 
 ### Personal
-- [Movie Recommender](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/Personal/Movie%20Recommender.md)
-- [Sliding Puzzle](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/Personal/Sliding%20Puzzle.md)
-- [Webpage](https://github.com/Willpatpost/Willpatpost/blob/main/GitHub%20Repo%20Directory/Personal/Webpage.md)
+- [Movie Recommender](https://github.com/Willpatpost/Movie-Recommender)
+- [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle)
+- [Webpage](https://willpatpost.me/)
 
 ---
 
