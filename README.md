@@ -4,7 +4,7 @@
 
 I'm William Poston, a dedicated **Computer Science** major with a **Data Science** minor, currently in my senior year at **Old Dominion University** in Norfolk, Virginia. Originally from Chesapeake, Virginia, I have a strong passion for technology and its potential to solve complex problems.
 
-My dream is to become a **Full Stack Software Engineer** or a **Prompt Engineer**, where I can contribute to the development of **Artificial Intelligence** or leverage it to enhance my work. I am enthusiastic about the evolving landscape of AI and am committed to both its advancement and its practical application in various domains.
+My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or **Prompt Engineer**, where I can contribute to the development of **Artificial Intelligence** or leverage it to enhance my work. I am enthusiastic about the evolving landscape of AI and am committed to both its advancement and its practical application in various domains.
 
 ## 📈 GitHub Stats
 
