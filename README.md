@@ -14,15 +14,12 @@ My dream is to become a **Full Stack Software Engineer** or a **Prompt Engineer*
 
 ## 📂 My Repositories
 
-### 🎓 For School
-- [CS 417 - CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
-- [CS 580 - Crossword Generator and Solver](https://github.com/Willpatpost/Crossword-Generator)
-- [CS 580 - Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer)
-- [CS 580 - Reversi](https://github.com/Willpatpost/Reversi)
-- [CS 580 - Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
-- [CS 580 - Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator)
-
-### 🛠️ Personal
+- [CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
+- [Crossword Generator and Solver](https://github.com/Willpatpost/Crossword-Generator)
+- [Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer)
+- [Reversi](https://github.com/Willpatpost/Reversi)
+- [Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
+- [Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator)
 - [Movie Recommender](https://github.com/Willpatpost/Movie-Recommender)
 - [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle)
 - [Personal Webpage](https://github.com/Willpatpost/PersonalWebpage)
