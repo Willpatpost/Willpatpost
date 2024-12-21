@@ -15,7 +15,7 @@ My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or *
 ## 📂 My Repositories
 
 - [CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
-- [Crossword Generator and Solver](https://github.com/Willpatpost/Crossword-Generator)
+- [Crossword Generator and Solver](https://github.com/Willpatpost/Crossworder)
 - [Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer)
 - [Reversi](https://github.com/Willpatpost/Reversi)
 - [Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
