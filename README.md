@@ -6,7 +6,7 @@ I'm William Poston, a dedicated **Computer Science** major with a **Data Science
 
 My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or **Prompt Engineer**, where I can contribute to the development of **Artificial Intelligence** or leverage it to enhance my work. I am enthusiastic about the evolving landscape of AI and am committed to both its advancement and its practical application in various domains.
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 ![GitHub Stats](https://willpatpost.github.io/GitHub-Stats/stats_board.svg)
 
