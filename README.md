@@ -15,7 +15,7 @@ My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or *
 ## My Repositories
 
 - [CPU Core Temps](https://github.com/Willpatpost/CPU-Core-Temp-Analyzer)
-- [Crossword Generator and Solver](https://github.com/Willpatpost/ActualCrossWorderTest)
+- [Crossword Generator and Solver](https://github.com/Willpatpost/Crossworder)
 - [Neural Network Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer)
 - [Reversi](https://github.com/Willpatpost/Reversi)
 - [Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
@@ -26,25 +26,4 @@ My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or *
 
 ---
 
-## Future Projects
-
-I'm constantly seeking opportunities to expand my skill set and work on innovative projects. Here are a few ideas I'm excited to explore:
-
-- **Advanced AI Models:** Developing sophisticated natural language processing models to enhance AI interactions.
-- **Full Stack Applications:** Building comprehensive web applications that integrate data analysis and visualization tools.
-- **Interactive Data Visualizations:** Creating dynamic dashboards to make complex data more accessible and actionable.
-
----
-
-## Let's Connect
-
-I'm always open to networking, collaboration, and new opportunities. Feel free to reach out!
-
-- [LinkedIn](https://www.linkedin.com/in/william-poston/)
-- [Email](mailto:willpatpost@gmail.com)
-
----
-
-### Thank you for visiting my GitHub profile! 😊
-
----
+### Thank you for visiting my GitHub profile!
