@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm William Poston, **Computer Science** major graduate with a **Data Science** minor, from **Old Dominion University** in Norfolk, Virginia.
+My name is William Poston and I am a **Computer Science** major graduate with a **Data Science** minor, from **Old Dominion University** in Norfolk, Virginia.
 
 My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or **Prompt Engineer**, where I can contribute to the development of **Artificial Intelligence** or leverage it to enhance my work.
 
