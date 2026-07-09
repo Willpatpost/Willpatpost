@@ -18,7 +18,7 @@ My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or *
 - [Crossword Generator and Solver](https://github.com/Willpatpost/Crossworder)
 - [Neural Network Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer)
 - [Reversi](https://github.com/Willpatpost/Reversi)
-- [Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
+- [Sokomind](https://github.com/Willpatpost/Sokomind)
 - [Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator)
 - [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle)
 - [Personal Webpage](https://willpatpost.github.io/)
