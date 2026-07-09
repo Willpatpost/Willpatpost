@@ -21,7 +21,7 @@ My dream is to become a **Full Stack Software Engineer**, **Data Analyst**, or *
 - [Sokomind](https://github.com/Willpatpost/Sokoban-Solver)
 - [Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator)
 - [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle)
-- [Personal Webpage](https://github.com/Willpatpost/PersonalWebpage)
+- [Personal Webpage](https://willpatpost.github.io/)
 - [GitHub Stat Board](https://github.com/Willpatpost/GitHub-Stats)
 
 ---
