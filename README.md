@@ -13,8 +13,6 @@ I am interested in full-stack engineering, data analysis, and prompt engineering
 - Full-stack and frontend projects with clean user flows
 - Data analysis, visualization, and applied machine learning
 - Puzzle, game, and algorithmic problem-solving projects
-- Developer tools that turn messy inputs into useful outputs
-- AI-assisted workflows for building, testing, and learning faster
 
 ## Featured Projects
 
