@@ -33,3 +33,5 @@ I am interested in full-stack engineering, data analysis, and prompt engineering
 I am continuing to sharpen my engineering fundamentals while building projects that combine software development, data, and AI. I care about writing code that is readable, useful, and meaningful.
 
 Thanks for visiting my profile.
+
+<!-- not sure what to add
