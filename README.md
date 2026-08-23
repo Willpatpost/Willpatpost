@@ -22,7 +22,7 @@ I am interested in full-stack engineering, data analysis, and prompt engineering
 | [Crossword Generator and Solver](https://github.com/Willpatpost/Crossworder) | Puzzle generation, solving logic, and search |
 | [Neural Network Digit Recognizer](https://github.com/Willpatpost/Digit-Recognizer) | Machine learning and handwritten digit classification |
 | [Reversi](https://github.com/Willpatpost/Reversi) | Board game logic and interactive play |
-| [Sokomind](https://github.com/Willpatpost/Sokoban-Solver) | Sokoban solving and state-space search |
+| [Sokomind](https://willpatpost.github.io/SokomindSolver) | Sokoban solving and state-space search |
 | [Triangle Image Generator](https://github.com/Willpatpost/Triangle-Image-Generator) | Procedural image generation |
 | [Sliding Puzzle](https://github.com/Willpatpost/Sliding-Puzzle) | Puzzle mechanics and problem solving |
 | [Personal Webpage](https://willpatpost.github.io/) | Portfolio and web presence |
