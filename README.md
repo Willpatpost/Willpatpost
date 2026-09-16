@@ -35,3 +35,4 @@ I am continuing to sharpen my engineering fundamentals while building projects t
 Thanks for visiting my profile.
 
 <!-- not sure what to add
+need to keep my commit streak lol
